@@ -4,6 +4,7 @@ use PhpMvc\Html;
 
 View::setLayout('_layout');
 View::setTitle('About');
+View::setTitle('BUTTON PUSHED');
 ?>
 
 <h2><?=View::getTitle()?></h2>

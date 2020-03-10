@@ -41,7 +41,8 @@ class HomeController extends Controller {
             return $this->file('~/content/images/php-mvc-logo.png');
 
             default:
-                return $this->view('index');
+        //    return $this->view('buttonHandler');
+            return $this->view('index');
         }
     }
 
