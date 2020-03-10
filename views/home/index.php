@@ -11,6 +11,7 @@ View::setTitle('Welcome to My Application');
         <br/>
             Hello, World!
         <br/>
+        <br/>
         <button>
             PUSH
         </button>
