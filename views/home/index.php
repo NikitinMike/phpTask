@@ -8,7 +8,12 @@ View::setTitle('Welcome to My Application');
 
 <div class="embed-responsive embed-responsive-16by9">
     <div> 
-    Hello, World!
+        <br/>
+            Hello, World!
+        <br/>
+        <button>
+            PUSH
+        </button>
     </div>
     <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/AvMFHHyhmVM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 </div>
